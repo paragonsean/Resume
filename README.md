@@ -60,17 +60,24 @@ AWS Cloud
 Ubuntu
 
 Gen-AI
+
 PL/SQL
 
 SQL
 
 Java
+
 Linux
+
 Python
+
 C++
+
 C
 Quartus
+
 Soft Skills
+
 Continuous learning and adaptation
 Clear, effective communication
 Organized and focused time management
@@ -80,12 +87,18 @@ Leadership and team guidance
 Collaboration across teams
 Problem-solving and innovation
 Building and maintaining relationships
+
 References
+
 Mark Vann – Owner, Visi-Trak Worldwide LLC – (434) 249-3434
+
 Mark Cable – Business Operations Manager and Program Coordinator, IATFIW-CN – (571) 283-3142
+
 Edwin Otero – Junior Solutions Engineer at GovSmart, Inc. – (757) 897-6344
+
 Jehu Martin – Standard and Poor's – (434) 981-9372
+
 Oliver Kuttner – Edison2 – (434) 806-2435
-Contact
+
 Feel free to reach out to me at cos30degrees@gmail.com or 757-419-7865 for any inquiries or opportunities.
 
