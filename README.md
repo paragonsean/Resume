@@ -54,11 +54,16 @@ Provided IT solutions, data recovery, and ransomware removal services.
 Installed firewalls, network devices, NAS systems, and other servers.
 Skills & Interests
 Technical Skills
+
 AWS Cloud
+
 Ubuntu
+
 Gen-AI
 PL/SQL
+
 SQL
+
 Java
 Linux
 Python
